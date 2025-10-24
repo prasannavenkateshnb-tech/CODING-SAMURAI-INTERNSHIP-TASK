@@ -17,9 +17,9 @@ public class Calculator{
         return (double)num1/num2;
     }
     public void calculate(int num1,int num2){
-        System.out.println("Addition"+add(num1,num2));
-        System.out.println("Subtraction"+sub(num1,num2));
-        System.out.println("Multiplication"+mul(num1,num2));
+        System.out.println("Addition "+add(num1,num2));
+        System.out.println("Subtraction "+sub(num1,num2));
+        System.out.println("Multiplication "+mul(num1,num2));
         System.out.println("Division "+div(num1,num2));
 
 
